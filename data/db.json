@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": "ec0d",
+      "name": "Sonic Shoes",
+      "price": "200"
+    },
+    {
+      "id": "ecaf",
+      "name": "Tails Shirt",
+      "price": "105"
+    },
+    {
+      "id": "8e89",
+      "name": "Shadow Raincoat",
+      "price": "180"
+    },
+    {
+      "id": "95ca",
+      "name": "Knuckles Gloves",
+      "price": "120"
+    }
+  ]
+}
